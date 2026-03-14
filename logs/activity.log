@@ -4,3 +4,4 @@
 [2026-03-12T04:39:50.215Z] implement lazy loading for dashboard cards
 [2026-03-13T13:03:05.149Z] implement input sanitization middleware
 [2026-03-14T13:45:57.650Z] implement input sanitization middleware
+[2026-03-14T16:54:27.667Z] extract common utilities into shared helper
