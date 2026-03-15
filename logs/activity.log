@@ -5,3 +5,4 @@
 [2026-03-13T13:03:05.149Z] implement input sanitization middleware
 [2026-03-14T13:45:57.650Z] implement input sanitization middleware
 [2026-03-14T16:54:27.667Z] extract common utilities into shared helper
+[2026-03-15T09:13:55.446Z] improve error code reference table
