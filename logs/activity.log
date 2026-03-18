@@ -1,3 +1,4 @@
 [2026-03-16T07:46:17.699Z] fix import ordering to match project convention
 [2026-03-17T03:31:36.060Z] document database migration process
 [2026-03-17T15:41:42.068Z] correct off-by-one error in pagination logic
+[2026-03-18T03:40:46.480Z] add export functionality for reports
