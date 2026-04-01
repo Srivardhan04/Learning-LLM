@@ -2,3 +2,4 @@
 [2026-03-31T04:55:54.874Z] fix broken image paths in production build
 [2026-03-31T11:53:07.734Z] fix broken redirect after authentication
 [2026-03-31T14:50:02.013Z] update Docker base image to alpine 3.19
+[2026-04-01T06:09:03.352Z] update GitHub Actions workflow to Node 20
