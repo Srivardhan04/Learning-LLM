@@ -4,3 +4,4 @@
 [2026-03-31T14:50:02.013Z] update Docker base image to alpine 3.19
 [2026-04-01T06:09:03.352Z] update GitHub Actions workflow to Node 20
 [2026-04-01T16:47:25.420Z] fix test data setup for isolated test runs
+[2026-04-02T12:54:01.175Z] refactor database queries to use query builder
