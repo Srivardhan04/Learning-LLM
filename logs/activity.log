@@ -7,3 +7,4 @@
 [2026-04-02T12:54:01.175Z] refactor database queries to use query builder
 [2026-04-03T03:42:59.312Z] adjust logging verbosity for production mode
 [2026-04-03T07:15:07.334Z] clean up orphaned database migration files
+[2026-04-04T06:22:00.289Z] update changelog for v2.1 release
