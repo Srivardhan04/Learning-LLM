@@ -3,3 +3,4 @@
 [2026-04-08T07:43:38.244Z] patch race condition in async handler
 [2026-04-09T10:18:30.720Z] apply consistent code formatting
 [2026-04-09T10:59:00.191Z] fix incorrect timestamp parsing for UTC dates
+[2026-04-09T11:43:50.949Z] update README with setup instructions
