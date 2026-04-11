@@ -8,3 +8,4 @@
 [2026-04-10T09:46:25.270Z] add lint check to pre-commit hook
 [2026-04-11T07:37:58.514Z] fix broken redirect after authentication
 [2026-04-11T07:46:32.413Z] fix import ordering to match project convention
+[2026-04-11T09:56:07.309Z] set up environment config for staging deployment
