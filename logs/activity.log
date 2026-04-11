@@ -6,3 +6,4 @@
 [2026-04-09T11:43:50.949Z] update README with setup instructions
 [2026-04-10T06:41:16.883Z] fix edge case when input array is empty
 [2026-04-10T09:46:25.270Z] add lint check to pre-commit hook
+[2026-04-11T07:37:58.514Z] fix broken redirect after authentication
