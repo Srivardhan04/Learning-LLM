@@ -12,3 +12,4 @@
 [2026-04-11T10:37:35.938Z] add Prometheus metrics endpoint
 [2026-04-12T05:04:04.830Z] fix typo in inline documentation
 [2026-04-12T11:49:13.598Z] add usage examples to README
+[2026-04-12T12:00:31.008Z] add timeout handling for slow network requests
