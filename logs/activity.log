@@ -2,3 +2,4 @@
 [2026-04-13T09:34:08.247Z] fix broken redirect after authentication
 [2026-04-14T04:12:10.655Z] add JSDoc comments to public API methods
 [2026-04-15T05:00:55.998Z] fix CSS overflow issue on mobile viewport
+[2026-04-15T12:27:52.627Z] remove unused packages from package.json
