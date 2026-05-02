@@ -3,3 +3,4 @@
 [2026-04-29T06:06:07.670Z] configure log rotation for production
 [2026-04-29T20:03:47.960Z] add retry mechanism with exponential backoff
 [2026-05-01T10:34:17.538Z] configure log rotation for production
+[2026-05-02T11:52:13.770Z] add troubleshooting section to docs
