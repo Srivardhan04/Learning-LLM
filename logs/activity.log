@@ -6,3 +6,4 @@
 [2026-05-07T04:37:21.950Z] add progress indicator for long-running tasks
 [2026-05-08T09:23:15.831Z] clean up unused environment variables
 [2026-05-09T09:16:45.123Z] remove trailing whitespace across project
+[2026-05-10T12:00:15.211Z] refactor database queries to use query builder
