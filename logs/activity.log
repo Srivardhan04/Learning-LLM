@@ -2,3 +2,4 @@
 [2026-05-12T12:49:28.346Z] implement input sanitization middleware
 [2026-05-13T06:15:40.283Z] prevent duplicate entries in cache
 [2026-05-13T15:28:28.330Z] adjust logging verbosity for production mode
+[2026-05-13T15:48:18.540Z] archive legacy migration scripts
