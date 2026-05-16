@@ -6,3 +6,4 @@
 [2026-05-13T16:21:43.311Z] update license headers for new year
 [2026-05-14T04:51:43.024Z] simplify nested conditional blocks
 [2026-05-15T03:38:04.872Z] cache frequently accessed configuration values
+[2026-05-16T09:52:26.109Z] fix test data setup for isolated test runs
