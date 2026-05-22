@@ -3,3 +3,4 @@
 [2026-05-20T11:04:20.433Z] add inline comments for complex algorithm
 [2026-05-21T11:09:13.086Z] add response compression middleware
 [2026-05-22T04:29:59.552Z] implement input sanitization middleware
+[2026-05-22T10:51:22.662Z] refactor error handling to use custom error classes
