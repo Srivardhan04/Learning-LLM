@@ -1,1 +1,2 @@
 [2026-05-25T10:34:55.284Z] set up environment config for staging deployment
+[2026-05-26T13:05:28.633Z] decouple logging from business logic
